@@ -17,13 +17,18 @@ Once these steps are completed, you are able to run JavaScript.
 #### Running JavaScript
 1. In VS Code, go to the "File" menu, then select "New File".
 2. Save this new file with a .js extension to show it is a JavaScript file. Ex: hello.js
-3. In this new file, type the following code: **console.log("Hello World!);**
-4. Return to the menu, and save your file.
-5. Right-click anywhere in the file and select "Run". You can also press the play button that is provided in VS Code.
+3. In this new file, type the following code:
+```
+console.log("Hello World!);
+```
+6. Return to the menu, and save your file.
+7. Right-click anywhere in the file and select "Run". You can also press the play button that is provided in VS Code.
 
 If you would like to write comments:
+```
 // Use these two forward slashes to write a single line comment.
 /* If you would like to write a multi line comment use these symbols around your comment and it would be ignored. */
+```
 
 #### JavaScript Resources 
 1. [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
