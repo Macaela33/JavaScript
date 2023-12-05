@@ -40,6 +40,7 @@ Most of these operators are mainly used for numbers, strings, and sometimes bool
 
 Primitive data types, which are are all the data types in JavaScript, are immutable. If a variable is one of these data types you can't change the value after creating them, but that you can still access. [[7]](https://www.freecodecamp.org/news/mutability-vs-immutability-in-javascript/#whatisimmutabilityinjavascript)
 
+https://github.com/Macaela33/JavaScript/blob/5a8a93690ec81cb5d84450e66b11495165aeb341/Functions.md
 ## Sources
 [1]https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing
 
