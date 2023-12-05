@@ -33,7 +33,6 @@ If you would like to write comments:
 5. [w3 Schools](https://www.w3schools.com/js/default.asp)
 
 
-
 ### Sources
 [1] [LaunchSchool](https://launchschool.com/books/javascript/read/introduction)
 
