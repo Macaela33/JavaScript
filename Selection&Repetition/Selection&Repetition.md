@@ -59,6 +59,8 @@ Short-circuiting is the evaluation of an expression from left to right with || (
     console.log(true && false) //this returns false once it gets its first false value
     console.log(true || false) //this returns true once it gets its first truth value
 
+**To learn more about JavaScript classes and inheritance, click [here](https://github.com/Macaela33/JavaScript/blob/bc427f1a346b20c675601139e44b184f77f5295a/Classes%26Inheritance/Classes%26Inheritance.md)**
+
 ## Sources
 [1] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
 
