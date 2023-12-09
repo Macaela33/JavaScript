@@ -1,5 +1,7 @@
 # Selection and Repetition
 
+To view more examples click [here](https://github.com/Macaela33/JavaScript/blob/8650d8b61626553e0182941f9f8c32948cb6f02c/Selection%26Repetition/SelectionandRepetition.js)
+
 ## Conditional Statements
 
 JavaScript has two types of conditional statements. if/else and if/elseif/else statements. These statements are used in JavaScript to help it execute specific actions, provided certain conditions are met. Below is a example of an if/elseif/else statement:
