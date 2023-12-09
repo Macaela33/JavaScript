@@ -37,6 +37,7 @@ If you would like to write comments:
 4. [JavaScript Weekly](https://javascriptweekly.com)
 5. [w3 Schools](https://www.w3schools.com/js/default.asp)
 
+To learn about data types, click [here.](https://github.com/Macaela33/JavaScript/tree/8afbfa217ce5828ea27823b672b3b3e0d44b89a8/Datatypes)
 
 ### Sources
 [1] [LaunchSchool](https://launchschool.com/books/javascript/read/introduction)
