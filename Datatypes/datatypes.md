@@ -29,6 +29,8 @@ Operators for data types [[6]](https://www.w3schools.com/js/js_operators.asp):
 
 Most of these operators are mainly used for numbers, strings, and sometimes boolean data types.
 
+To view some examples, view [here](https://github.com/Macaela33/JavaScript/blob/11088abbcced743bb3a483e440ce9c02216ca5ec/Datatypes/datatypes.js)
+
 ### Things to keep in mind about data types
 - JavaScript numbers are always stored as double precision floating point numbers.
 - If you add a number and a string or two strings, the result will be connected instead of added. 
