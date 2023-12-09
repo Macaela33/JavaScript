@@ -40,7 +40,7 @@ When we modify something in JavaScript it'll cause a side effect. A side effect 
 ## Recursive Functions [[5]](https://www.freecodecamp.org/news/recursion-in-javascript/)
 A recursive function is a function that calls itself somewhere within the body of the function. It will repeat calling itself until the desired output is achieved. JavaScript will support this type of function. If you would like to see and example look at the attached code in the respository. 
 
-**To learn about selection and repeatition statements, click [here](https://github.com/Macaela33/JavaScript/blob/b3712a8806b6674b6744d9e2159da59430187b6a/Selection%26Repetition/Selection%26Repetition.md)**
+**To learn about selection and repetition statements, click [here](https://github.com/Macaela33/JavaScript/blob/b3712a8806b6674b6744d9e2159da59430187b6a/Selection%26Repetition/Selection%26Repetition.md)**
 
 ## Sources
 [1] https://www.w3schools.com/js/js_scope.asp
