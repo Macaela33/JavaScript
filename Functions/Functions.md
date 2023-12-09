@@ -1,5 +1,7 @@
 # Functions
 
+To view some examples of functions, click [here](https://github.com/Macaela33/JavaScript/blob/06c102cf8bbfb0728b9b403284662848c369960e/Functions/functions.js)
+
 ## Declaring a Function
 There are no rules about where a function needs to be placed for the file to be run. The function needs to be declared and written correctly for it to run. 
 A JavaScript function is declared with the **function** keyword, the name you would like to use for the function, followed by parenthesis and brackets.
