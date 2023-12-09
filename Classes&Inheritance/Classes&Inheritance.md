@@ -1,5 +1,7 @@
 # Classes and Inheritance
 
+To view some examples, click [here](https://github.com/Macaela33/JavaScript/blob/3a355c01ad65e0fe20387af2fef5b274437471e3/Classes%26Inheritance/Objects.js)
+
 ## Objects
 
 JavaScript supports objects. It is used to store various keyed collections and more complex entities.[[1]](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object) It is common practice to declare objects with the *const* keyword.[[2]](https://www.w3schools.com/js/js_objects.asp)
