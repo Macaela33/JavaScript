@@ -61,6 +61,23 @@ Short-circuiting is the evaluation of an expression from left to right with || (
     console.log(true && false) //this returns false once it gets its first false value
     console.log(true || false) //this returns true once it gets its first truth value
 
+## Repetition
+In JavaScript, Repetition statements are used to repeadetly execute a block of  code as long as the condition is true. The most common statements are while and for loops. 
+
+for loop:
+```
+for (let step = 0; step < 5; step++) {     // Runs 5 times, with values of step 0 through 4.
+    console.log("Walking east one step");
+}
+```
+while loop:
+```
+while (i < 10) {     //the code in the loop will run, over and over again, as long as a variable (i) is less than 10
+  text += "The number is " + i;
+  i++;     //increases the number by 1
+}
+```
+
 **To learn more about JavaScript classes and inheritance, click [here](https://github.com/Macaela33/JavaScript/blob/bc427f1a346b20c675601139e44b184f77f5295a/Classes%26Inheritance/Classes%26Inheritance.md)**
 
 ## Sources
